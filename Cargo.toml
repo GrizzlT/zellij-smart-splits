@@ -3,6 +3,7 @@ name = "rust-plugin-example"
 version = "0.1.0"
 authors = ["Aram Drevekenin <aram@poor.dev>"]
 edition = "2018"
+rust-version = "1.61.0"
 
 [dependencies]
 ansi_term = "0.12.1"
